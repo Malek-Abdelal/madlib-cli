@@ -1,4 +1,5 @@
 .venv
 tests/__pycache__
+tests/__init__.py
 madlib_cli/__pycache__
 .pytest_cache
